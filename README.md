@@ -1,13 +1,11 @@
 # Book-Recommendation-System-Capstone-Project
 
 # Book Recommendation System
-Check Out Our Blog On Book Recommendation System Here:
-Book Recommendation System
 
 # Description:
 A Book Recommendation System which recommends the users a selection of books based on their interests.
 
-# Data used for this project was taken from here
+Data used for this project was taken from [here](https://drive.google.com/drive/folders/1gwJXKGvD7ph4SJ4WbLq3yZmSCVjK71Ex?usp=drive_link)
 
  1. Data Cleaning and Pre-Processing
 The dataset consists of three tables; Books, Users, and Ratings. Data from all three tables are cleaned and preprocessed separately as defined below briefly:
