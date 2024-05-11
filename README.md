@@ -9,7 +9,7 @@ A Book Recommendation System which recommends the users a selection of books bas
 
 # Data used for this project was taken from here
 
-# 1 Data Cleaning and Pre-Processing
+ 1. Data Cleaning and Pre-Processing
 The dataset consists of three tables; Books, Users, and Ratings. Data from all three tables are cleaned and preprocessed separately as defined below briefly:
 
 # For Books Table:
@@ -49,7 +49,7 @@ For this model, we have sorted the books by rating for the same author and same 
 Popular Books Yearly
 This is the most basic model in which we have grouped all the books published in the same year and recommended the top-rated book yearly.
 
-# 2.2 Recommendation using Average Weighted Rating
+ 2.2 Recommendation using Average Weighted Rating
 We have calculated the weighted score using the below formula for all the books and recommended the books with the highest score.
 
 score= t/(t+m)∗a + m/(m+t)∗c
