@@ -1,5 +1,3 @@
-# Book-Recommendation-System-Capstone-Project
-
 # Book Recommendation System
 
 # Description:
