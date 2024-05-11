@@ -74,7 +74,7 @@ This system recommends books by calculating similarities in Book Titles. For thi
 # 2.7 Hybrid Approach (Collaborative+Content) Recommendation
 A hybrid recommendation system was built using the combination of both content-based filtering and collaborative filtering systems. A percentile score is given to the results obtained from both content and collaborative filtering models and is combined to recommend top n books.
 
-3. Libraries Used:
+# 3. Libraries Used:
 ipython-notebook - Python Text Editor
 sklearn - Machine learning library
 seaborn, matplotlib - Visualization libraries
