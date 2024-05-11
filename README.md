@@ -80,5 +80,5 @@ sklearn - Machine learning library
 seaborn, matplotlib - Visualization libraries
 numpy, scipy- number python library
 pandas - data handling library
-4. Acknowledgments:
+# 4. Acknowledgments:
 Machine Learning Monsoon 2020 (CSE543) @IIIT Delhi
